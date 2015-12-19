@@ -1,0 +1,27 @@
+﻿生成启动时间为 2015/11/24 23:12:22。
+     1>项目“C:\Users\zhang_neng\Documents\Visual Studio 2012\Projects\zhhftest\zhhftest\zhhftest.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing zhhftest.h...
+       ClCompile:
+         E:\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\include /I.\GeneratedFiles\Debug /ID:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\include\QtCore /ID:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\include\QtGui /ID:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\include\QtSql /ID:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\include\QtWidgets /ID:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\include\QtANGLE /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_SQL_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Debug\moc_zhhftest.cpp main.cpp zhhftest.cpp
+         moc_zhhftest.cpp
+         main.cpp
+         zhhftest.cpp
+         正在生成代码...
+       Link:
+         E:\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\zhang_neng\Documents\Visual Studio 2012\Projects\zhhftest\x64\Debug\\zhhftest.exe" /NOLOGO /LIBPATH:D:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Sqld.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\zhang_neng\Documents\Visual Studio 2012\Projects\zhhftest\x64\Debug\zhhftest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\zhang_neng\Documents\Visual Studio 2012\Projects\zhhftest\x64\Debug\zhhftest.lib" /MACHINE:X64 x64\Debug\zhhftest.res
+         x64\Debug\coreanimation.obj
+         x64\Debug\moc_coreanimation.obj
+         x64\Debug\moc_questiondialog.obj
+         x64\Debug\moc_zhhftest.obj
+         x64\Debug\qrc_zhhftest.obj
+         x64\Debug\main.obj
+         x64\Debug\qa_coordinates.obj
+         x64\Debug\questiondialog.obj
+         x64\Debug\zhhftest.obj
+         zhhftest.vcxproj -> C:\Users\zhang_neng\Documents\Visual Studio 2012\Projects\zhhftest\x64\Debug\zhhftest.exe
+     1>已完成生成项目“C:\Users\zhang_neng\Documents\Visual Studio 2012\Projects\zhhftest\zhhftest\zhhftest.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.26

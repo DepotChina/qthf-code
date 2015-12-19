@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/11/23 0:37:57。
+     1>项目“c:\Users\zhang_neng\documents\visual studio 2012\Projects\zhhftest\zhhftest\zhhftest.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         E:\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\Users\zhang_neng\documents\visual studio 2012\Projects\zhhftest\Win32\Release\\zhhftest.exe" /NOLOGO /LIBPATH:D:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Sql.lib Qt5Widgets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"c:\Users\zhang_neng\documents\visual studio 2012\Projects\zhhftest\Win32\Release\zhhftest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\Users\zhang_neng\documents\visual studio 2012\Projects\zhhftest\Win32\Release\zhhftest.lib" /MACHINE:X86 /SAFESEH Release\zhhftest.res
+         Release\qrc_zhhftest.obj
+         Release\moc_zhhftest.obj
+         Release\main.obj
+         Release\zhhftest.obj
+     1>Qt5Widgets.lib(Qt5Widgets.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“X86”冲突
+     1>已完成生成项目“c:\Users\zhang_neng\documents\visual studio 2012\Projects\zhhftest\zhhftest\zhhftest.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.16

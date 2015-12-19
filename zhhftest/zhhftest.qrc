@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/zhhftest">
+        <file>Resources/ditu.png</file>
+        <file>Resources/05.png</file>
+        <file>Resources/aaa.png</file>
+        <file>Resources/111.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,30 @@
+﻿生成启动时间为 2015/11/23 0:42:33。
+     1>项目“c:\Users\zhang_neng\Documents\Visual Studio 2012\Projects\zhhftest\zhhftest\zhhftest.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Moc'ing zhhftest.h...
+         Uic'ing zhhftest.ui...
+         Rcc'ing zhhftest.qrc...
+     1>RCC : warning : No resources in 'c:\Users\zhang_neng\Documents\Visual Studio 2012\Projects\zhhftest\zhhftest\zhhftest.qrc'.
+         
+       ClCompile:
+         E:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\include /I.\GeneratedFiles\Debug /ID:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\include\QtCore /ID:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\include\QtGui /ID:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\include\QtSql /ID:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_SQL_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_zhhftest.cpp main.cpp zhhftest.cpp
+         moc_zhhftest.cpp
+         main.cpp
+         zhhftest.cpp
+         正在生成代码...
+         E:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\include /I.\GeneratedFiles\Debug /ID:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\include\QtCore /ID:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\include\QtGui /ID:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\include\QtSql /ID:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_SQL_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_zhhftest.cpp
+         qrc_zhhftest.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /l"0x0409" /nologo /fo"Debug\zhhftest.res" zhhftest.rc 
+       Link:
+         E:\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\Users\zhang_neng\Documents\Visual Studio 2012\Projects\zhhftest\Win32\Debug\\zhhftest.exe" /NOLOGO /LIBPATH:D:\article_code\digiaqt5\qt\5.1.1\msvc2012_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Sqld.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\Users\zhang_neng\Documents\Visual Studio 2012\Projects\zhhftest\Win32\Debug\zhhftest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\Users\zhang_neng\Documents\Visual Studio 2012\Projects\zhhftest\Win32\Debug\zhhftest.lib" /MACHINE:X64 /SAFESEH Debug\zhhftest.res
+         Debug\moc_zhhftest.obj
+         Debug\qrc_zhhftest.obj
+         Debug\main.obj
+         Debug\zhhftest.obj
+     1>Debug\moc_zhhftest.obj : fatal error LNK1112: 模块计算机类型“X86”与目标计算机类型“x64”冲突
+     1>已完成生成项目“c:\Users\zhang_neng\Documents\Visual Studio 2012\Projects\zhhftest\zhhftest\zhhftest.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:05.05
